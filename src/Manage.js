@@ -7,8 +7,8 @@ import My404Component from './components/My404Component'
 
 function App() {
   return (
-      <Routes>
-        <Route path='/a' element={<Home />} />
+      <Routes basename="predict-app-react">
+        <Route path='/' element={<Home />} />
         <Route path="/t" element={<Header />} />
         <Route path="/*" element={<My404Component />} />
       </Routes>

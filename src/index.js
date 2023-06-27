@@ -6,7 +6,7 @@ import App from './Manage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BrowserRouter basename="/predict-app-react">
+    <BrowserRouter basename="predict-app-react">
         <App />
     </BrowserRouter>
 );
