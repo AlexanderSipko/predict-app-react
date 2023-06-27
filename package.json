@@ -1,7 +1,7 @@
 {
   "name": "predict-app",
   "version": "0.1.0",
-  "homepage": "https://AlexanderSipko/predict-app-react",
+  "homepage": "https://AlexanderSipko.github.io/predict-app-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
