@@ -8,8 +8,8 @@ function Manage() {
   return (
     <BrowserRouter basename="/predict-app-react">
       <Routes>
-        <Route exact path='/' element={<Home />} />
-        <Route path="/contact" element={<Header />} />
+        <Route exact path='/a' element={<Home />} />
+        <Route path="/t" element={<Header />} />
       </Routes>
     </BrowserRouter>
   );
