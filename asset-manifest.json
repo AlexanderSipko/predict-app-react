@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/predict-app-react/static/css/main.e6c13ad2.css",
-    "main.js": "/predict-app-react/static/js/main.7f75eeaa.js",
+    "main.js": "/predict-app-react/static/js/main.ec47d062.js",
     "index.html": "/predict-app-react/index.html",
     "main.e6c13ad2.css.map": "/predict-app-react/static/css/main.e6c13ad2.css.map",
-    "main.7f75eeaa.js.map": "/predict-app-react/static/js/main.7f75eeaa.js.map"
+    "main.ec47d062.js.map": "/predict-app-react/static/js/main.ec47d062.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7f75eeaa.js"
+    "static/js/main.ec47d062.js"
   ]
 }
