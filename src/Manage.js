@@ -9,7 +9,7 @@ function App() {
   return (
       <Routes basename="predict-app-react">
         <Route path='/' element={<Home />} />
-        <Route path="/t" element={<Header />} />
+        <Route path="/test" element={<Header />} />
         <Route path="/*" element={<My404Component />} />
       </Routes>
   );
