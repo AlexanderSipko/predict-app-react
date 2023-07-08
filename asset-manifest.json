@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/predict-app-react/static/css/main.9c4923d0.css",
-    "main.js": "/predict-app-react/static/js/main.74af26d7.js",
+    "main.css": "/predict-app-react/static/css/main.55ea6938.css",
+    "main.js": "/predict-app-react/static/js/main.701f2832.js",
     "index.html": "/predict-app-react/index.html",
-    "main.9c4923d0.css.map": "/predict-app-react/static/css/main.9c4923d0.css.map",
-    "main.74af26d7.js.map": "/predict-app-react/static/js/main.74af26d7.js.map"
+    "main.55ea6938.css.map": "/predict-app-react/static/css/main.55ea6938.css.map",
+    "main.701f2832.js.map": "/predict-app-react/static/js/main.701f2832.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c4923d0.css",
-    "static/js/main.74af26d7.js"
+    "static/css/main.55ea6938.css",
+    "static/js/main.701f2832.js"
   ]
 }
